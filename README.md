@@ -1,9 +1,15 @@
-# Introduction to Jupyter Notebooks in VS Code
+# Files, Exceptions, and SQL
+# Tanner Young
+""" 
+This module deals with data at rest. Data at rest may be kept in:
 
-- [GitHub Repository](https://github.com/denisecase/datafun-04-notebooks/)
-
-Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
-
+files,
+relational databases (e.g., SQLite, SQL Server, Oracle), 
+NoSQL datastores (e.g., MongoDB)
+Graph databases (e.g., Neo4J)
+and more. 
+We'll look at how to read and write from files and relational databases.
+"""
 ## Step 1: Open The Project Folder
 
 Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
